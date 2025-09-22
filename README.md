@@ -72,7 +72,7 @@ Simply open index.html in any web browser.
 Live Demo
 
 You can view the live site on GitHub Pages 
-👉 https://mah-c.github.io/maua-limited/
+👉 https://mah-c.github.io/mauaLtd/
 
 Future Enhancements
 -> Implement a shopping cart and checkout functionality.
